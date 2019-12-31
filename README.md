@@ -1,4 +1,6 @@
 # KotlinExUtils
+[![](https://jitpack.io/v/lvfaqiang/KotlinExUtils.svg)](https://jitpack.io/#lvfaqiang/KotlinExUtils)
+
 主项目中所需添加的依赖：
 
 ```
